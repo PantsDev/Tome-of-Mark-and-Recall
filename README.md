@@ -15,3 +15,4 @@ To summon the Tome, all you need to do is either type or copy this trigger comma
 ```
 /trigger summontome
 ```
+<sub>Tome can be summoned as many times as needed with no cooldown.</sub>
